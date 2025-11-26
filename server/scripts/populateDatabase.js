@@ -1,5 +1,5 @@
 const axios = require('axios')
-const signupApi = 'http://localhost:3001/api/v1/user/signup'
+const signupApi = 'https://project-10-bank-api-4dsl.onrender.com/api/v1/user/signup'
 
 const users = [
   {
